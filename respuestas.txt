@@ -1,1 +1,108 @@
-sfdsf
+
+21. ¿Que diferencia hay entre "\t\n" y ’\t\n’?
+"\t\n" y "\\t\\n" 
+22.¿Como funciona %q? ¿Que es %q{hello world\n}? ¿Qu´e es %q{’a’ ’b’ ’c’}?
+
+23. ¿Como funciona %Q? ¿Que es %Q{hello world\n}? ¿Qu´e es %Q{"a" "b" "c"}?
+
+24. => "--4--\n--2--\n"
+25. => "--\#{4}--\n--\#{2}--\n" 
+26.[0,2]=> "he"
+   [-1,1]=>"o" 
+   [0,10]=>"hello" 
+
+27."hello world"
+
+28."..."
+29."2 2 2 "
+30.["this", "is", "a", "test"] 
+31.["\\t", "\\n"] 
+32.["\t", "\n"] 
+33.[nil, nil, nil]
+34.[0, 0, 0]
+35.[[1, 2], [3, 4]] 
+36.[0, 2, 4] 
+37.["b"]
+	["d", "e"] 
+	["a", "b", "c"]
+	["a"]
+	["d", "e"]
+
+38.["A", "B", "c", "d", "e"]
+	["A", "B", "C", "D", "E"] 
+	[1, 2, 3, "A", "B", "C", "D", "E"]
+	[3, "A", "B", "C", "D", "E"] 
+	[3, "A", "B", "C", "D", "Z"]
+	[3, "A", "B", "C", nil]
+
+39. [1, 2, 3]
+	[1, 2, 3, 4, 5]
+	[1, 2, 3, 4, 5, [6, 7, 8]]
+
+40.["a", "b", "c", "b", "a"] 	
+["a", "a"]
+
+41.[]
+
+42.[1]
+[1, 2, 3] 
+[1, 2, 3, 7, 8] 
+
+43.[1, 2, 3, 4, 5]
+[5, 4, 3, 2, 1] 
+[2, 3, 4]
+[4, 3, 2]
+
+44.[1, 2, 3, 4, 5, 6, 7, 8, 9, 10] 
+[1, 2, 3, 4, 5, 6, 7, 8, 9]
+false
+true 
+
+45.true
+true
+true
+
+46.TrueClass 
+FalseClass
+nil
+nil 
+nil
+
+47. Symbol 
+false 
+true
+Symbol
+true
+true
+
+48.nil
+nil
+
+49."3 rubies"
+
+50.[4, 5]
+5
+ [1, 2, 3] 
+
+ 51.[:a, :b] 
+ [1, 2]
+ 3
+  {:a=>1, :b=>2, :c=>3} 
+  {:a=>1, :b=>2, :c=>3}
+  {:b=>2, :c=>3}
+  {:a=>1}
+  {:a=>1}
+  
+  52.Le pasa el control del bloque 4 al 5.
+  
+  53.{} la diferencia es el igual.
+  
+  54.["hello", "world", "hello", "LPP"] 
+  
+  55.{:a=>3, :b=>2, :c=>1}
+  [:a, :b, :c] 
+
+ 
+ 
+ 
+
